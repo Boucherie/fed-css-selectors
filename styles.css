@@ -34,7 +34,7 @@ h1, h2 {
   text-align: right;
 }
 
-.exercises > li  {
+.exercises > ol  {
   padding: 1em;
   background-color: #999999;
 }
