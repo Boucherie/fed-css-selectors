@@ -38,3 +38,18 @@ h1, h2 {
   padding: 1em;
   background-color: #999999;
 }
+
+ol > li:nth-child(odd) {
+    background-color: green;
+}
+
+a[title="Bitmaker"]:hover {
+  text-decoration: none;
+}
+
+ol ul li a:hover {
+  background-color: yellow;
+}
+ol ul li a:active {
+  background-color: red;
+}
