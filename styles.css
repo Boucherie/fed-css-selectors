@@ -17,10 +17,24 @@ h1, h2 {
   border: 1px solid black;
 }
 
+.even {
+  background-color: #999999;
+}
+
+.odd {
+  background-color: grey;
+  color: white;
+}
+
 #item1 {
   font-size: 30px;
 }
 
 #item2 {
   text-align: right;
+}
+
+.exercises > li  {
+  padding: 1em;
+  background-color: #999999;
 }
